@@ -4,4 +4,4 @@ What's the crack man!
 Freelance  psychologist psychotherapist,
 involved in the world of programming developers as a personal challenge and because of the close similarity with the treatment of information processing with the human being with the Cognitive Psychology.
   
-"Programming as a metaphor for the human cognitive system"
+"Programming as a metaphor of the human cognitive system"
